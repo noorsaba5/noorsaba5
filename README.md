@@ -22,7 +22,12 @@ Currently advancing my expertise in Machine Learning and AI through applied proj
 - Feature Engineering
 - Data Preprocessing & Scaling
 
-- ## 🚀 Technical Stack
+**Tools**
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+
+## 🚀 Technical Stack
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -30,12 +35,6 @@ Currently advancing my expertise in Machine Learning and AI through applied proj
 ![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualisation-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Tools**
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
-
 ---
 
 ## Featured Projects
